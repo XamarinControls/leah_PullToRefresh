@@ -1,0 +1,13 @@
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/optimized/arrow.png
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/optimized/
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/PullToRefresh.exe.mdb
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/PullToRefresh.exe
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.exe
+/Users/luiseduardohernandez/Documents/GitHub/leah_PullToRefresh/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.exe.mdb
